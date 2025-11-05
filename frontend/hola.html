@@ -247,7 +247,7 @@ document.getElementById('formPago').addEventListener('submit', e => {
   const estado = document.getElementById('estadoPedido');
   const numeroOrden = 'EA' + Math.floor(100000 + Math.random() * 900000);
 
-  fetch("http://localhost:4000/pedidos", {
+  fetch("http://ea-mxshop.orender.com/pedidos", {
     method: "POST",
     headers: {"Content-Type": "application/json"},
     body: JSON.stringify({nombre, correo, telefono, direccion, total, items: carrito, numeroOrden})
