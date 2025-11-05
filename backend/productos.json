@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Playera Michael Kors",
+    "precio": 580,
+    "stock": 5,
+    "imagenes": ["MK1.jpg","MK2.jpg"]
+  },
+  {
+    "id": 2,
+    "nombre": "Playera Off White",
+    "precio": 580,
+    "stock": 3,
+    "imagenes": ["OF1.jpg","OF2.jpg","OF3.jpg","OF4.jpg"]
+  },
+  {
+    "id": 3,
+    "nombre": "Playera Hellstar",
+    "precio": 580,
+    "stock": 2,
+    "imagenes": ["H1.jpg","H2.jpg","H3.jpg","H4.jpg"]
+  },
+  {
+    "id": 4,
+    "nombre": "Playera Hellstar Azul",
+    "precio": 580,
+    "stock": 0,
+    "imagenes": ["HS1.jpg","HS2.jpg","HS3.jpg","HS4.jpg"]
+  },
+  {
+    "id": 5,
+    "nombre": "Playera Hugo Azul",
+    "precio": 580,
+    "stock": 4,
+    "imagenes": ["Hugo1.jpg","Hugo2.jpg","Hugo3.jpg"]
+  }
+]
